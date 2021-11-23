@@ -46,3 +46,4 @@ my_sentence = Sentence('This is a test')
 # create a generator for this function
 for word in my_sentence:
     print(word)
+
